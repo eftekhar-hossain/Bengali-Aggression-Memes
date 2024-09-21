@@ -15,7 +15,7 @@ Internet memes have gained immense traction as a medium for individuals to conve
 
 # ✨How to Run
 
-The following instructions will show how to run the **MAF** model on the **MIMOSA** dataset. You can apply it to any multimodal (image+text) dataset with slight modifications in the `dataset.py` file.
+The following instructions will show how to run the **MAF** model on the **MIMOSA** dataset. You can apply it to any multimodal (image+text) dataset with slight modifications in the `dataset.py` file. The scripts are built on `Python 3.10.12`
 
 1. Clone this repository and navigate to Deciphering-Hate@ACL folder
 ```bash
