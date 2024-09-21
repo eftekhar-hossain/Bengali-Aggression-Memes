@@ -29,6 +29,7 @@ pip install -r requirements.txt  # download the required libraries
 ```
 
 3. Directory
+   
 Folders should organized as follows in `Bengali-Aggression-Memes`
 
 ```
